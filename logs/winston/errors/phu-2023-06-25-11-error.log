@@ -1,0 +1,260 @@
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:17.837Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:20.491Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:24.380Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:33.367Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:38.269Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:40.477Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:45.384Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:48.571Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:51.311Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:47:53.301Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:03.806Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:07.101Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:12.257Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:14.531Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:16.310Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:27.297Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:31.561Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:35.358Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:41.670Z'
+}
+{
+  service: 'user-service',
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect data querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.vmrkcs3.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'PH',
+  timestamp: '2023-06-25T05:48:47.198Z'
+}
